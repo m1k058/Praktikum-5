@@ -1,0 +1,21 @@
+{
+	"bibliography":[
+	{
+		"author":"Julia Donaldson",
+		"title":"Der Grüffelo",
+		"year":1999,
+		"edition":1,
+		"publisher":"Beltz & Gelberg",
+		"comment":"Lieblingsbuch aus der Kindheit"
+	}
+	{
+		"class":"Buch",
+		"author":"Marc-Uwe Kling",
+		"title":"QualityLand",
+		"booktitle": "QualityLand",
+		"year":2017,
+		"publisher":"Ullstein Verlag",
+		"Sehr unterhaltsam":""
+	}
+	]
+}
